@@ -33,6 +33,20 @@ This analysis project aims to highlight how income reacts to inflation over time
 - Predictive analysis to discover future data trends with ARIME & uncovering patterns using existing data 
 - Improved web dashboard 
 
+## How to Run
+
+Follow these steps to get the Economic Trends Dashboard up and running on your local machine.
+
+### Prerequisites
+
+Make sure you have **Python 3.x** installed. If you don't have it, download it from [here](https://www.python.org/downloads/).
+
+### 1. Clone the Repository
+
+Start by cloning the repository to your local machine:
+
+/bash
+git clone https://github.com/yourusername/WIP-Data-Analyst.git
 
 # Author
 Tim Smith
